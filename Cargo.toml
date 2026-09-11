@@ -1,0 +1,7 @@
+[package]
+name = "lsm-tree-storage-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Log-Structured Merge-Tree (LSM-tree) persistent key-value storage engine with MemTable and SSTable compaction in Rust."
+
+[dependencies]
